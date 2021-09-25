@@ -4,7 +4,7 @@ import MyComponent from './MyComponent';
 function App() {
   const name = '리액트';
   return (
-    <MyComponent>=react=</MyComponent>
+    <MyComponent name="chan" favoriteNuber={1} >=react=</MyComponent>
   );
 }
 
