@@ -4,7 +4,7 @@ import MyComponent from './MyComponent';
 function App() {
   const name = '리액트';
   return (
-    <MyComponent/>
+    <MyComponent>=react=</MyComponent>
   );
 }
 
