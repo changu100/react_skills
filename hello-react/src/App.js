@@ -1,10 +1,10 @@
 import React from 'react';
-import MyComponent from './MyComponent';
+import Counter from './Counter';
 
 function App() {
   const name = '리액트';
   return (
-    <MyComponent name="chan" favoriteNumber={1} >=react=</MyComponent>
+    <Counter></Counter>
   );
 }
 
