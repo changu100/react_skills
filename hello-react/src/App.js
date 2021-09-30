@@ -1,10 +1,9 @@
 import React from 'react';
-import Say from './Say'
-import EventPractice from './EventPractice'
+import VaildationSample from './VaildationSample'
 
 function App() {
   const name = '리액트';
-  return <EventPractice />;
+  return <VaildationSample />;
   
 }
 
