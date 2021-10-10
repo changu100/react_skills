@@ -1,9 +1,15 @@
-import React from 'react';
-import VaildationSample from './VaildationSample'
+import React ,{Component} from 'react';
+import ScrollBox from './ScrollBox'
 
-function App() {
-  const name = '리액트';
-  return <VaildationSample />;
+class App extends Component{
+  render(){
+    return(
+      <div>
+        <ScrollBox/>
+      </div>
+    )
+
+  }
   
 }
 
